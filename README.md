@@ -1,16 +1,15 @@
 ### Hi there 👋
+Bem vindo ao meu perfil !!!
 
-<!--
-**SamantaVaz/SamantaVaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Samanta Vaz** 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Sou professora do Ensino Médio nas disciplinas de Matemática e Química.
+- Trabalho na rede pública no Estao do Paraná
+- Estou iniciando na área de Programação que agora faz parte da disciplina de matemática.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo pelo e-mail: samanta.gon.vaz@gmail.com
+
+
+![](https://media.tenor.com/4ho5rKl9UtYAAAAd/dog-doggo.gif)
+
